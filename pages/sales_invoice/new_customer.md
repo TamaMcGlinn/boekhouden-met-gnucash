@@ -29,7 +29,7 @@ Vul nu de volgende velden in:
 
 * **Klantnummer**: Indien dit een bestaande klant is, vul het nummer in. Indien niet, laat het leeg zodat GnuCash zelf het eerstvolgende nummer invult.
 * **Bedrijfsnaam**: De bedrijfsnaam van de klant
-* **Actief**: Dit staat standaard aangevinkt, en het is belangrijk dat ook zo blijft.
+* **Actief**: Dit staat standaard aangevinkt, en het is belangrijk dat dat ook zo blijft.
 * **Naam**: Naam van de contactpersoon bij deze klant.
 * **Adres**: Adres van het bedrijf: straat, huisnummer, postcode en plaats.
 * **Telefoon**: Mag leeg gelaten worden
