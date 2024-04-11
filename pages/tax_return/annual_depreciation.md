@@ -6,7 +6,7 @@ parent: Aangifte inkomenstenbelasting
 nav_order: 1
 ---
 
-__Let op: De informatie die hier staat is actueel voor 2021, maar kan wijzigen. Kijk daarom ook altijd op de website van de belastingdienst!__
+__Let op: De informatie die hier staat is actueel voor 2024, maar kan wijzigen. Kijk daarom ook altijd op de website van de belastingdienst!__
 
 ## De jaarlijkse afschrijving
 Allerlei zaken die je hebt aangeschaft voor je bedrijf zullen naar verloop van tijd in waarde dalen. 
