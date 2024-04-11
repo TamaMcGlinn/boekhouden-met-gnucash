@@ -6,10 +6,6 @@ parent: Inkoopfacturen
 nav_order: 2
 ---
 
-**Let op:** In de huidige versies van GnuCash zit een bug waardoor de tekst bij de knoppen in dit venster niet de juiste vertaling krijgen.
-Je ziet dus steeds "Verkoopfactuur" staan, maar dit moet "Inkoopfactuur" zijn voor alle knoppen in de werkbalk. De knoppen werken echter correct.
-In deze handleiding gaan we uit van de correcte vertaling.
-
 ## Inkoopfactuur invoeren
 Kies menu "MKB", submenu "Leverancier" en vervolgens de optie "Nieuwe inkoopfactuur".
 
