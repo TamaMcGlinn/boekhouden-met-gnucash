@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Geboekte Inkoopfactuur bewerken
-permalink: /edit_bill
+title: Openstaande inkoopfactuur zien
+permalink: /outstanding_bill
 parent: Inkoopfacturen
 nav_order: 4
 ---
