@@ -20,9 +20,9 @@ Je krijgt nu het venster "Verkoopfactuur zoeken".
 Je kunt naar een specifieke factuur zoeken op veel verschillende kenmerken, zoals factuurnummer en bedrijfsnaam.
 Gebruik daarvoor het selectie-menu dat standaard op Factuurnummer staat.
 Als je een extra zoek-regel wilt hebben, gebruik de knop "Toevoegen". Je kunt de knop "Remove" gebruiken om een zoekregel te verwijderen.
-Je kunt een overzicht krijgen van alle verkoopfacturen door alle zoekregels te verwijderen en op Zoek te klikken.
+Je kunt een overzicht krijgen van alle verkoopfacturen door alle zoekregels te verwijderen en op Zoeken te klikken.
 
-In dit geval weten we het factuurnummer, namelijk 000001. Als we dit invullen en op zoek klikken krijgen we het volgende te zien:
+In dit geval weten we het factuurnummer, namelijk 000001. Als we dit invullen en op Zoeken klikken krijgen we het volgende te zien:
 
 ![Zoekresultaat verkoopfactuur zoeken]({{site.baseurl}}/assets/search_result_sales_invoice_dialog.png)
 
