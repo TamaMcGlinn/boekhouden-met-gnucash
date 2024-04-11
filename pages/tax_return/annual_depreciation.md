@@ -41,9 +41,7 @@ computer € 100. De totale afschrijving voor het bedrijf is dan € 900 (aansch
 afschrijving noemen we ook de _economische afschrijving_.
 Per jaar bekeken schrijft het bedrijf € 300 euro af op deze computer. Het maakt daarbij niet uit of deze computer nog in goede staat is of niet. De belastingdienst omschrijft dit als volgt: 
 
-```
-De economische levensduur van een bedrijfsmiddel is verstreken als het geen economisch nut meer heeft voor uw onderneming, ook al is het technisch nog in goede staat.
-```
+> De economische levensduur van een bedrijfsmiddel is verstreken als het geen economisch nut meer heeft voor uw onderneming, ook al is het technisch nog in goede staat.
 
 (Zie [Bron](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/afschrijving/hoe_berekent_u_het_bedrag_van_de_afschrijving))
 
